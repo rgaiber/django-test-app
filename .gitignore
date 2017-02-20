@@ -1,1 +1,7 @@
 /.venv
+*.pyo
+*.pyc
+settings.py
+sqlite3
+sqlite3.db
+db.sqlite3
